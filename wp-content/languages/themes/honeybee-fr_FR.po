@@ -1,0 +1,361 @@
+# Translation of Themes - HoneyBee in French (France)
+# This file is distributed under the same license as the Themes - HoneyBee package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-11 15:44:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - HoneyBee\n"
+
+#. Description of the theme
+msgid "HoneyBee is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyBee has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyBee is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyBee est un thème léger, élégant et pleinement fonctionnel conçu pour les entreprises, magazines, journaux, blogs personnels, boutique mobile, restaurants, planificateurs de mariage, gyms et plus encore. Le thème HoneyBee a des fonctionnalités spéciales comme diaporama de bannière, témoignage, services et blogs. Il est est entièrement réactif et compatible avec n’importe quel appareil. Facile à utiliser et à mettre en place. Le thème HoneyPress est également compatible avec WooCommerce. vous pouvez facilement importer des données factices via l’extension SpiceBox."
+
+#. Theme Name of the theme
+#: functions.php:159
+msgid "HoneyBee"
+msgstr "HoneyBee"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Activer maintenant"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Activer SpiceBox maintenant"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Vous avez installé l’extension SpiceBox. Pour tirer avantage des fonctions de ce thème dans la personnalisation, vous devez l’activer."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Installer SpiceBox maintenant"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Pour tirer avantage des fonctions du thème dans la personnalisation vous devez installer l’extension SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:495
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Pour afficher les fils d’Ariane, veuillez installer l’extension Yoast SEO."
+
+#: admin/inc/class-spicethemes-about-page.php:493
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:487
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:483
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Pour accéder aux sections avancées de la page d’accueil et aux autres fonctionnalités du thème, veuillez installer l’extension SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:481
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:341
+msgid "Active"
+msgstr "Activé"
+
+#: admin/inc/class-spicethemes-about-page.php:338
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/inc/class-spicethemes-about-page.php:336
+msgid "Activate %s now"
+msgstr "Activer %s maintenant"
+
+#: admin/inc/class-spicethemes-about-page.php:319
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Installer et activer"
+
+#: admin/inc/class-spicethemes-about-page.php:317
+msgid "Install %s now"
+msgstr "Installer %s maintenant"
+
+#: admin/inc/class-spicethemes-about-page.php:241
+msgid "Support"
+msgstr "Support"
+
+#: admin/inc/class-spicethemes-about-page.php:233
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "Get started with HoneyBee theme"
+msgstr "Premiers pas avec le thème HoneyBee"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "HoneyBee theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "HoneyBee est installé. Pour tirer pleinement avantage des fonctionnalités que ce thème a à offrir visitez notre %1$spage de bienvenue%2$s."
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenue dans %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "About %1$s %2$s"
+msgstr "À propos de %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:111
+msgid "View Theme Info"
+msgstr "Voir les infos du thème"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Erreur"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Activation"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Installation"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Premium Theme Details"
+msgstr "Détails du thème premium"
+
+#: admin/tab-pages/getting-started.php:63
+msgid "Your feedback is valuable to us"
+msgstr "Votre avis nous est précieux"
+
+#: admin/tab-pages/getting-started.php:51
+msgid "PRO Demo"
+msgstr "Démo PRO"
+
+#: admin/tab-pages/getting-started.php:45
+msgid "Lite Demo"
+msgstr "Démo Lite"
+
+#: admin/tab-pages/getting-started.php:39
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "HoneyBee theme"
+msgstr "Thème HoneyBee"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Go to the Customizer"
+msgstr "Aller dans la personnalisation"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "Pour tirer pleinement avantage de toutes les fonctionnalités que ce thème offre, veuillez installer et activer l’extension SpiceBox. Allez dans Personnaliser et installez l’extension SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:228
+#: admin/tab-pages/getting-started.php:21
+msgid "Getting Started"
+msgstr "Premiers pas"
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. HoneyBee is compatible with popular plugins like WPML and Polylang for the translation."
+msgstr "Vous pouvez utiliser ce thème pour tout type d’activité. HoneyBee est compatible avec des extensions populaires comme WPML et Polylang pour la traduction."
+
+#: admin/tab-pages/getting-started.php:17
+msgid "This theme is ideal for creating corporate and business websites. HoneyBee is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "Ce thème est idéal pour créer des sites corporatifs et d’entreprise. HoneyBee est un thème enfant du thème WordPress HoneyPress. La version Premium possède de nombreuses fonctionnalités : une page d’accueil avec plusieurs sections où vous pouvez mettre en avant des diapositives illimitées, des portfolios, des avis d’utilisateur, des nouveautés, des services, des appels à l’action et bien plus encore. Chaque section dans le modèle de la page d’accueil est conçue avec soin pour s’adapter aux exigences de toutes les entreprises."
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the HoneyBee theme"
+msgstr "À propos du thème HoneyBee"
+
+#: admin/tab-pages/useful_plugins.php:19
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Vous voulez obtenir l’essentiel sur les derniers changements de thème ? Il vous suffit de consulter notre journal ci-dessous pour obtenir un avant-goût des correctifs récents et des fonctionnalités mises en place."
+
+#: admin/tab-pages/getting-started.php:87 admin/tab-pages/useful_plugins.php:18
+#: admin/tab-pages/useful_plugins.php:20
+msgid "Changelog"
+msgstr "Journal des modifications"
+
+#: admin/tab-pages/useful_plugins.php:12
+msgid "We want to make sure you have the best experience using HoneyBee, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyBee as much as we enjoy creating great products."
+msgstr "Nous voulons nous assurer que vous avez la meilleure expérience en utilisant HoneyBee et c’est pourquoi nous avons rassemblé ici toutes les informations nécessaires. Nous espérons que vous apprécierez l’utilisation de HoneyBee, autant que nous aimons créer de superbes produits."
+
+#: admin/tab-pages/useful_plugins.php:11 admin/tab-pages/useful_plugins.php:13
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: functions/widgets/wdl_social_icon.php:221
+msgid "Dribble URL"
+msgstr "URL de Dribble"
+
+#: functions/widgets/wdl_social_icon.php:215
+msgid "Vimeo URL"
+msgstr "URL de Vimeo"
+
+#: functions/widgets/wdl_social_icon.php:209
+msgid "Skype URL"
+msgstr "URL de Skype"
+
+#: functions/widgets/wdl_social_icon.php:203
+msgid "Youtube URL"
+msgstr "URL de YouTube "
+
+#: functions/widgets/wdl_social_icon.php:197
+msgid "Instagram URL"
+msgstr "URL d’Instagram"
+
+#: functions/widgets/wdl_social_icon.php:191
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: functions/widgets/wdl_social_icon.php:184
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: functions/widgets/wdl_social_icon.php:181
+#: functions/widgets/wdl_social_icon.php:187
+#: functions/widgets/wdl_social_icon.php:194
+#: functions/widgets/wdl_social_icon.php:200
+#: functions/widgets/wdl_social_icon.php:206
+#: functions/widgets/wdl_social_icon.php:212
+#: functions/widgets/wdl_social_icon.php:218
+#: functions/widgets/wdl_social_icon.php:224
+msgid "Open link in new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: functions/widgets/wdl_social_icon.php:178
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "HoneyBee social icons widget"
+msgstr "Widget d’icônes sociaux HoneyBee"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "HoneyBee: Social icons"
+msgstr "HoneyBee : Icônes sociales"
+
+#: functions/widgets/sidebars.php:19
+msgid "Subscriber section widget area"
+msgstr "Zone de widget de section d’abonnement"
+
+#: functions/widgets/sidebars.php:10
+msgid "Social media menu lateral area"
+msgstr "Zone latérale de menu de réseaux sociaux"
+
+#: functions/widgets/sidebars.php:8
+msgid "Top header sidebar left area"
+msgstr "Zone d’en-tête haute de gauche"
+
+#: functions/widgets/wdl_topbar_info.php:130
+msgid "Email: abc@example.com"
+msgstr "E-mail : abc@exemple.com"
+
+#: functions/widgets/wdl_topbar_info.php:125
+msgid "Email"
+msgstr "E-mail"
+
+#: functions/widgets/wdl_topbar_info.php:121
+msgid "fa fa-phone"
+msgstr "fa fa-phone"
+
+#: functions/widgets/wdl_topbar_info.php:113
+msgid "Phone: +99 999-999-9999"
+msgstr "Téléphone : +99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:108
+msgid "Phone"
+msgstr "Téléphone"
+
+#: functions/widgets/wdl_topbar_info.php:105
+#: functions/widgets/wdl_topbar_info.php:123
+msgid "Link to get Font Awesome icons"
+msgstr "Lien pour obtenir des icônes Font Awesome"
+
+#: functions/widgets/wdl_topbar_info.php:103
+#: functions/widgets/wdl_topbar_info.php:105
+#: functions/widgets/wdl_topbar_info.php:123
+msgid "fa-icon"
+msgstr "fa-icon"
+
+#: functions/widgets/wdl_topbar_info.php:98
+#: functions/widgets/wdl_topbar_info.php:116
+msgid "Font Awesome icon"
+msgstr "Icône Font Awesome"
+
+#: functions/widgets/wdl_topbar_info.php:59
+#: functions/widgets/wdl_topbar_info.php:92
+msgid "abc@example.com"
+msgstr "abc@example.com"
+
+#: functions/widgets/wdl_topbar_info.php:41
+#: functions/widgets/wdl_topbar_info.php:80
+msgid "+99 999-999-9999"
+msgstr "+99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:19
+msgid "Topbar header info widget."
+msgstr "Zone de widgets d’info d’en-tête haute."
+
+#: functions/widgets/wdl_topbar_info.php:16
+msgid "HoneyBee: Header info widget"
+msgstr "HoneyBee : Widget info d’en-tête"
+
+#: index-news.php:87 index-news.php:131
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: index-news.php:70 index-news.php:114
+msgid "By"
+msgstr "Par"
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#: inc/header/header-nav.php:35 inc/header/header-nav.php:64
+msgid "Search …"
+msgstr "Rechercher…"
+
+#: inc/header/header-nav.php:35 inc/header/header-nav.php:64
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/header/header-nav.php:14
+msgid "Toggle navigation"
+msgstr "Afficher/masquer la navigation"
+
+#: functions.php:154
+msgid "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> by SpiceThemes"
+msgstr "Fièrement propulsé par <a href=\"https://wordpress.org\"> WordPress</a> | Thème : <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> par SpiceThemes"
+
+#: inc/customizer/customizer_theme_style.php:19
+msgid "Enable custom color skin"
+msgstr "Activer la palette de couleur personnalisée"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/honeybee-wordpress-theme/"
+msgstr "https://spicethemes.com/honeybee-wordpress-theme/"
